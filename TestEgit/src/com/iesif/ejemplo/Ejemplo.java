@@ -10,6 +10,11 @@ public class Ejemplo {
 		System.out.println("N = " + n);
 		System.out.println("A = " + a);
 		System.out.println("C = " + c);
+		
+		//suma
+		double suma = n +a;
+		System.out.println("El valor de la suma es " + suma);
+		
 
 	}
 
