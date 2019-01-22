@@ -10,6 +10,10 @@ public class Ejemplo {
 		System.out.println("N = " + n);
 		System.out.println("A = " + a);
 		System.out.println("C = " + c);
+		
+		//Resta 
+		double resta = a-n;
+		System.out.println("El valor de la resta de (" + a + ") y (" + n + ") es = " + resta);
 
 	}
 
