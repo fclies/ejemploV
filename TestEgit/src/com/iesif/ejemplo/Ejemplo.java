@@ -22,6 +22,8 @@ public class Ejemplo {
 		System.out.println("El valor de la resta de (" + a + ") y (" + n + ") es = " + resta);
 
 
+		//Mostrar valor numérico de c
+		int cChar = (int) c;
+		System.out.println("El valor numérico del caracter (" + c + ") es = " + cChar);
 	}
-
 }
